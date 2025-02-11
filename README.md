@@ -4,9 +4,9 @@
 This project focuses on analyzing sales data using Tableau to create interactive visualizations. The dashboard provides insights into key sales metrics, trends, and performance indicators.
 
 ## Dashboard Link
-[View Sales Dashboard](https://public.tableau.com/app/profile/vivek.yadav5793/viz/Book3_17251011276800/SalesDashboard)
-[View Sales Dashboard](https://public.tableau.com/app/profile/vivek.yadav5793/viz/Book2_17279787838240/NETFLIX?publish=yes)
-[View Sales Dashboard](https://public.tableau.com/app/profile/vivek.yadav5793/viz/IPL_17280574486560/Dashboard1?publish=yes)
+- [View Sales Dashboard 1](https://public.tableau.com/app/profile/vivek.yadav5793/viz/Book3_17251011276800/SalesDashboard)
+- [View Sales Dashboard 2](https://public.tableau.com/app/profile/vivek.yadav5793/viz/Book2_17279787838240/NETFLIX?publish=yes)
+- [View Sales Dashboard 3](https://public.tableau.com/app/profile/vivek.yadav5793/viz/IPL_17280574486560/Dashboard1?publish=yes)
 
 ## Table of Contents
 - [Project Objectives](#project-objectives)
