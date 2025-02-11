@@ -5,6 +5,8 @@ This project focuses on analyzing sales data using Tableau to create interactive
 
 ## Dashboard Link
 [View Sales Dashboard](https://public.tableau.com/app/profile/vivek.yadav5793/viz/Book3_17251011276800/SalesDashboard)
+[View Sales Dashboard](https://public.tableau.com/app/profile/vivek.yadav5793/viz/Book2_17279787838240/NETFLIX?publish=yes)
+[View Sales Dashboard](https://public.tableau.com/app/profile/vivek.yadav5793/viz/IPL_17280574486560/Dashboard1?publish=yes)
 
 ## Table of Contents
 - [Project Objectives](#project-objectives)
